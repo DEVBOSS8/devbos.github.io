@@ -22933,7 +22933,7 @@ ajo(a){return a},
 au6(a){return a},
 awp(a){return a},
 ail(){var s=t.E
-return A.aiG(A.hU(A.a([A.akj("\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0643\u062b\u0631"),A.lk(A.a([A.m0("79","\u0627\u062d\u062f\u062b \u0627\u0635\u062f\u0627\u0631"),A.m0("\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 + (\u0645\u0647\u0643\u0631)","\u0627\u0644\u0627\u0633\u0645")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("com.yemeni.phones","Package Name"),A.m0("\u0645\u062c\u0627\u0646\u064a","\u0627\u0644\u0641\u0626\u0647")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("8.0M","\u0627\u0644\u062d\u062c\u0645"),A.m0("\u0645\u062c\u0627\u0646\u064a","\u0627\u0644\u0641\u0626\u0647")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("Google Play","Available on"),A.m0("Android 4.4+","\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645")],s),B.ae,B.a3,B.a0)],s),B.ae,B.a3,B.a0))},
+return A.aiG(A.hU(A.a([A.akj("\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0643\u062b\u0631"),A.lk(A.a([A.m0("79","\u0627\u062d\u062f\u062b \u0627\u0635\u062f\u0627\u0631"),A.m0("\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 + (\u0645\u0647\u0643\u0631)","\u0627\u0644\u0627\u0633\u0645")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("com.yemeni.phones","Package Name"),A.m0("\u0645\u062c\u0627\u0646\u064a","\u0627\u0644\u0641\u0626\u0647")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("8.0MB","\u0627\u0644\u062d\u062c\u0645"),A.m0("\u0645\u062c\u0627\u0646\u064a","\u0627\u0644\u0641\u0626\u0647")],s),B.ae,B.a3,B.a0),A.lk(A.a([A.m0("Google Play","Available on"),A.m0("Android 4.4+","\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645")],s),B.ae,B.a3,B.a0)],s),B.ae,B.a3,B.a0))},
 m0(a,b){var s=null,r=A.aiu(A.R(14,0,0,0),1)
 return A.WY(A.df(s,new A.dm(new A.aX(14,6,14,6),A.hU(A.a([A.qA(b,s,s,s,s,s,s,s,A.hu(s,s,B.m,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.air(a,1/0,12,B.bE,s,s,B.B)],t.E),B.cU,B.a3,B.a0),s),B.t,s,new A.aw(0,1/0,0,1/0),new A.cP(s,s,r,s,s,s,B.ar),s,s,s,s),1)},
 alY(a){var s=null,r="assets/Screenshot/home.png",q=a<800,p=q?3:4,o=q?A.ail():A.df(s,s,B.t,s,s,s,s,s,s,s),n=A.akj("\u0639\u0646 \u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629"),m=A.df(s,B.xk,B.t,s,s,s,s,s,s,s),l=t.E,k=A.hU(A.a([A.qA("ScreenShot",s,s,s,s,s,s,s,A.hu(s,s,B.m,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.fb(s,10,s),A.lk(A.a([A.ajU(new A.kn(r),120),A.fb(s,s,7),A.ajU(new A.kn(r),120),A.fb(s,s,7),A.ajQ(B.Bj)],l),B.ae,B.a3,B.a0)],l),B.hj,B.a3,B.a0),j=A.asv()
@@ -40979,12 +40979,12 @@ l.saf(0,A.R(B.c.b2(76.5),33,150,243))
 a.cF(s,l)},
 dX(a){return a!==this}}
 A.FD.prototype={
-O(a){return new A.vt(B.FQ,"Flutter Demo",A.alG(null,A.as4(B.Z,B.Fy),!0),!1,null)}}
+O(a){return new A.vt(B.FQ,"\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0647\u0643\u0631",A.alG(null,A.as4(B.Z,B.Fy),!0),!1,null)}}
 A.vH.prototype={
 ar(){return new A.N4(B.k)}}
 A.N4.prototype={
 O(a){var s=null,r="seoNameJS",q="seoOpenGraphJS",p=A.bS(a,s,t.w).w.a.a,o=$.apU()
-o.hC(r,["\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0647\u0643\u0631","\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 \u0645\u0647\u0643\u0631"])
+o.hC(r,["apple-mobile-web-app-title","\u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u064a\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0647\u0643\u0631"])
 o.hC(r,["author","Dbs "])
 o.hC(r,["description","\u0645\u0645\u064a\u0632\u0627\u062a \u0643\u0627\u0634\u0641 \u0627\u0644\u0627\u0631\u0642\u0627\u0645 \u0627\u0644\u0645\u0647\u0643\u0631:\n  \u0644\u0627 \u064a\u0637\u0644\u0628 \u0645\u0646\u0643 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0631\u0641\u0639 \u0648\u0645\u0634\u0627\u0631\u0643\u0629 \u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0648\u0646\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062d\u062b\n\u062a\u0645 \u0627\u0632\u0627\u0644\u0629 \u0627\u0644\u0627\u0639\u0644\u0627\u0646\u0627\u062a \u0645\u0646 \u0627\u0644\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0647"])
 o.hC(r,["keywords","Flutter, Dart, SEO, Meta, Web"])
