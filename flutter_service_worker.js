@@ -15,7 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "bccc2862b7b81d63cb2523efb0d88fc6
 "assets/fonts/MaterialIcons-Regular.otf": "12df800d3972b801d7763db9e71641b3",
 "assets/fonts/SIMPBDO.TTF": "4bd6ab63089a8cb01aa5d0f41b4f7b12",
 "assets/fonts/SIMPO.TTF": "559ceb0a4fc4863a985e4258506390cb",
-"assets/NOTICES": "adf0c0f4b94fbe88cdc202881f3154d5",
+"assets/NOTICES": "44f1c303cfc0e37a15b85e4c5e6ef7ac",
 "assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Bold.ttf": "2accfcd6b3faf83d349942a19b91e12b",
 "assets/packages/arabic_font/assets/fonts/Amiri/Amiri-BoldItalic.ttf": "1f0cfd59bef4321ff35af3ea69415e55",
 "assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Italic.ttf": "ca54f2483d9429c0a47fba80249ceede",
@@ -106,9 +106,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "bccc2862b7b81d63cb2523efb0d88fc6
 "icons/ic_launcher.png": "f66b8e29772b1003067120c0e36936b4",
 "icons/ic_launcher_foreground.png": "9d6d5a81dd5327c1ce9f4bdd49ddc7d9",
 "icons/ic_launcher_round.png": "7969b50f232261ecd887d33327112a20",
-"index.html": "4844ecdaeb8167c05d6d1340131c60b2",
-"/": "4844ecdaeb8167c05d6d1340131c60b2",
-"main.dart.js": "e63b16a172f8e513b636d7c35e531c47",
+"index.html": "dbe6c81fa81b29a8f61ebd7615e7b5c4",
+"/": "dbe6c81fa81b29a8f61ebd7615e7b5c4",
+"main.dart.js": "743402d111591a6046cddb019ad80d33",
 "manifest.json": "a6ffe8e52bb6ff1c44123c5063a9efb0",
 "version.json": "8d390f87f61255b1b7b4b35dca7fa28b"};
 // The application shell files that are downloaded before a service worker can
