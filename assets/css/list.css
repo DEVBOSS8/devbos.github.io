@@ -1,0 +1,13 @@
+.liabu{
+    padding: 10px;
+}
+.table-li{
+   
+    border-radius: 0%;
+    border-width:1;
+    border-style:hidden;
+    border-left: 1px;
+    border-color:rgba(0, 0, 0, 0.1);
+    
+    
+}

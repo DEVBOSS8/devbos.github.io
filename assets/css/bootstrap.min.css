@@ -1,0 +1,100 @@
+
+
+button {
+    border-radius: 0
+}
+
+button:focus {
+    outline: 1px dotted;
+    outline: 5px auto -webkit-focus-ring-color
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit
+}
+
+button,
+input {
+    overflow: visible
+}
+
+button,
+select {
+    text-transform: none
+}
+
+[type=reset],
+[type=submit],
+button,
+html [type=button] {
+    -webkit-appearance: button
+    
+}
+
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner,
+button::-moz-focus-inner {
+    padding: 0;
+    border-style: none
+    
+}
+
+input[type=checkbox],
+input[type=radio] {
+    box-sizing: border-box;
+    padding: 0
+}
+
+input[type=date],
+input[type=datetime-local],
+input[type=month],
+input[type=time] {
+    -webkit-appearance: listbox
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d
+    
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #5a6268;
+    border-color: #545b62
+}
+
+.btn-secondary.focus,
+.btn-secondary:focus {
+    box-shadow: 0 0 0 .2rem rgba(108, 117, 125, .5)
+}
+
+.btn-secondary.disabled,
+.btn-secondary:disabled {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active,
+.btn-secondary:not(:disabled):not(.disabled):active,
+.show>.btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #545b62;
+    border-color: #4e555b
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active:focus,
+.btn-secondary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(108, 117, 125, .5)
+}
